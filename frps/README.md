@@ -1,6 +1,6 @@
 Frp-Server
 ===========
-##frp的搬运工。
+##frp的搬运工, frps for Linux Server, Written by Clang。
 
 
 ##感谢[fatedier/frp](https://github.com/fatedier/frp)提供这么优秀的软件
