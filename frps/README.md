@@ -15,7 +15,7 @@ Server
 ### Install
 
 ```Bash
-wget --no-check-certificate http://frp.clarkqi.cn/frps/install-frps.sh -O ./install-frps.sh
+wget --no-check-certificate https://raw.githubusercontent.com/ClarkQi/frp-install/main/frps/install-frps.sh -O ./install-frps.sh
 chmod 700 ./install-frps.sh
 ./install-frps.sh install
 ```
